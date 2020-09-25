@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 A self motivated and passionate Technology Learner .
 
 ### PROGRAMING SKILLS
-Comfortable: HTML, CSS, Bootstrap, JavaScript, Jquery, PHP .
-Familiar: MySQL, Appache, IIS web server.
-Tools: Git, Chrome Dev Tool, and VSCode.
+HTML, CSS, Bootstrap, JavaScript, Jquery, PHP .
+MySQL, Appache, IIS web server.
+Git, Chrome Dev Tool, and VSCode.
 
